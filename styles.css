@@ -21,3 +21,15 @@ body {
   box-sizing: border-box;
   padding: 0.5em;
 }
+#categories {
+  background-color: rgb(59, 59, 59);
+  border: none;
+  color: rgb(0, 0, 0);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  height: 20%;
+  width: 100%;
+  font-size: 200%;
+}
