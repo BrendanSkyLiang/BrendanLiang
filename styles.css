@@ -1,5 +1,23 @@
-body{
-    margin: 0;
-    background: pink;
-    text-align: center;
+#content,
+html,
+body {
+  height: 98%;
+}
+#left {
+  float: left;
+  width: 20%;
+  background: rgb(167, 167, 167);
+  height: 100%;
+  overflow: scroll;
+  box-sizing: border-box;
+  padding: 0.5em;
+}
+#right {
+  float: left;
+  width: 80%;
+  background: rgb(201, 201, 201);
+  height: 100%;
+  overflow: scroll;
+  box-sizing: border-box;
+  padding: 0.5em;
 }
