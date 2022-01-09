@@ -21,8 +21,14 @@ body {
   box-sizing: border-box;
   padding: 0.5em;
 }
-
 #pageTitle {
   text-align: center;
-  text-transform: capitalize;
+  text-rendering: geometricPrecision;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 300%;
+}
+#contact {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 150%;
 }
