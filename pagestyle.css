@@ -21,3 +21,8 @@ body {
   box-sizing: border-box;
   padding: 0.5em;
 }
+
+#pageTitle {
+  text-align: center;
+  text-transform: capitalize;
+}
