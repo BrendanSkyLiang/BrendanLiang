@@ -6,7 +6,7 @@ body {
 #left {
   float: left;
   width: 20%;
-  background: rgb(255, 255, 255);
+  background: rgb(25, 96, 248);
   height: 100%;
   overflow: scroll;
   box-sizing: border-box;
@@ -19,16 +19,23 @@ body {
   height: 100%;
   overflow: scroll;
   box-sizing: border-box;
-  padding: 0.5em;
+  padding: 1.5em;
+  padding-top: 3em;
+  padding-bottom: 3em;
 }
 #pageTitle {
   text-align: center;
   text-rendering: geometricPrecision;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 300%;
+  font-size: 2.5vw;
 }
 #contact {
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 150%;
+}
+#institutelabel {
+  text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.5vw;
 }
